@@ -1,0 +1,25 @@
+.ret{
+    height: 700px;
+    width: 400x;
+    border: 1px solid grey;
+   margin-left: 10px;
+  
+
+}
+.k{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: chocolate;
+    margin-left: 10px;
+}
+.p{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
+}
+.img{
+    width: 100%;
+    display: block;
+    display: flex;
+    justify-content: center;
+}
